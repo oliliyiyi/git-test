@@ -24,3 +24,7 @@ address{
     margin: 0px;
     color: #0f0f0f;
 }
+.body-content{
+    margin: 0px auto;
+    padding: 10px 0px;
+}
